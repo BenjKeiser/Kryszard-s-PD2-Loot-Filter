@@ -1986,7 +1986,7 @@ ItemDisplay[(crs OR bsd OR lsd) NMAG !INF !RW SOCK=4]: %NAME%{%NAME%}
 ItemDisplay[crs ILVL>25 NMAG !INF !RW (SOCK=0 OR SOCK>4)]: %NAME%{%NAME%}
 ItemDisplay[7cr NMAG !RW !INF SOCK=0]: %NAME%{%NAME%}
 ItemDisplay[7cr NMAG !RW !INF SOCK>2]: %DOT-D6%%NAME%{%NAME%}
-ItemDisplay[(72h OR 7fb OR 7gd OR 7gs) ETH NMAG !RW !INF (SOCK=0 OR SOCK>2)]: %DOT-D6%%NAME%{%NAME%}
+ItemDisplay[(72h OR 7fb OR 7gd OR 7gs OR 7ls) ETH NMAG !RW !INF (SOCK=0 OR SOCK>2)]: %DOT-D6%%NAME%{%NAME%}
 //Maces
 ItemDisplay[fla NMAG !RW !INF (SOCK=0 OR SOCK>2)]: %NAME%{%NAME%}
 //Wands
